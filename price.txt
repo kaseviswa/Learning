@@ -1,3 +1,2 @@
 Product : Laptop
 Price: 5000
-Price: 0
